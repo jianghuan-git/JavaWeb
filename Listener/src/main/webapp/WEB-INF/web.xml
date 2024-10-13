@@ -1,0 +1,5 @@
+<web-app>
+    <listener>
+        <listener-class>com.example.listener.RequestLoggingListener</listener-class>
+    </listener>
+</web-app>
